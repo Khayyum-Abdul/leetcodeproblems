@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,5 +60,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
