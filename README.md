@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0263-ugly-number](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0263-ugly-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 <!---LeetCode Topics End-->
