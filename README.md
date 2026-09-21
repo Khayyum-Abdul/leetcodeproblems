@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0002-add-two-numbers/) | Medium |
+| [0263-ugly-number](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0263-ugly-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
