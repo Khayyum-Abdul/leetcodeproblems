@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0002-add-two-numbers/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Khayyum-Abdul/leetcodeproblems/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 <!---LeetCode Topics End-->
